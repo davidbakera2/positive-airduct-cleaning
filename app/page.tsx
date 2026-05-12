@@ -247,9 +247,9 @@ export default function Home() {
             <div className="bg-zinc-50 p-8 rounded-3xl">
               <div className="text-6xl text-amber-400 mb-6">“</div>
               <p className="italic leading-relaxed mb-8">
-                It should be a positive experience. For the customer, for the technician — everyone.
+                Positive Air has revolutionized our restoration work at PuroClean Northwest. Fast, safe, and superior results every time.
               </p>
-              <div className="text-sm text-zinc-500">— David Hart, Straight from the Hart</div>
+              <div className="text-sm text-zinc-500">— Bob Jordan, PuroClean Northwest, Straight from the Hart Episode 2</div>
             </div>
           </div>
         </div>
