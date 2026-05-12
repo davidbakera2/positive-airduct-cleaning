@@ -47,3 +47,14 @@ h1, h2, h3 {
 .hero-bg {
   background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
 }
+
+@layer utilities {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
