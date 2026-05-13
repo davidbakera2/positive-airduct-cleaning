@@ -76,7 +76,7 @@ export default function Home() {
             <div className="md:col-span-5">
               <div className="sticky top-24">
                 <div className="uppercase tracking-[3px] text-blue-600 text-sm font-medium mb-3">THE METHOD</div>
-                <h2 className="text-5xl font-semibold tracking-tighter leading-none mb-6">What is Positive Air Duct Cleaning®?</h2>
+                <h2 className="text-5xl font-semibold tracking-tighter leading-none mb-6">What is Positive Air Duct Cleaning?</h2>
                 <p className="text-lg text-zinc-600">
                   A better, safer way to clean HVAC systems. Invented in 2007, it uses the system's own air handler to move air in the correct direction — no large external machines, no cutting into ducts, and no damage to modern flex ducting.
                 </p>
