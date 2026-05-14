@@ -69,6 +69,15 @@ export default function Home() {
         </div>
       </div>
 
+      {/* David Hart Photo */}
+      <section className="py-16 bg-gradient-to-r from-blue-50 to-indigo-50">
+        <div className="max-w-6xl mx-auto px-6 text-center">
+          <img src="/david-hart.jpg" alt="David Hart, Founder RamAir International" className="mx-auto w-48 h-48 md:w-64 md:h-64 rounded-full shadow-2xl object-cover mb-8 ring-4 ring-white" />
+          <h3 className="text-3xl md:text-4xl font-semibold text-zinc-900 mb-3">David Hart</h3>
+          <p className="text-xl text-blue-600 font-medium">Founder & CEO, RamAir International</p>
+        </div>
+      </section>
+
       {/* What is Positive Air */}
       <section id="method" className="py-24 bg-white">
         <div className="max-w-6xl mx-auto px-6">
